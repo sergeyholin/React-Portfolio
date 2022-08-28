@@ -1,9 +1,11 @@
 import React from 'react';
-
+import avatar from '../../images/avatar.jpg';
+import '../../styles/About_Me.css';
 export default function About_Me() {
   return (
-    <div>
-      <h3>About Me</h3>
+    <div className='main'>
+      <center><img src={ avatar } height="100px" width="100px"></img></center>
+      <center><h3>About Me</h3></center>
       <p>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque
         velit, lobortis ut magna varius, blandit rhoncus sem. Morbi lacinia nisi
