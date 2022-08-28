@@ -1,10 +1,12 @@
 import React from 'react';
-
+import '../styles/NavTabs.css';
 // Here we are using object destructuring assignment to pluck off our variables from the props object
 // We assign them to their own variable names
 function NavTabs({ currentPage, handlePageChange }) {
   return (
     <ul className="nav nav-tabs">
+      <h1 className="holin">Sergey Holin</h1>
+      <div className="tabs">
       <li className="nav-item">
         <a
           href="#about_me"
@@ -46,6 +48,7 @@ function NavTabs({ currentPage, handlePageChange }) {
           Resume
         </a>
       </li>
+      </div>
     </ul>
   );
 }
