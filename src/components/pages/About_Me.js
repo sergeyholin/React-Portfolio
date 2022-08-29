@@ -1,5 +1,5 @@
 import React from 'react';
-import avatar from '../../images/avatar.jpg';
+import avatar from '../../assets/images/avatar.jpg';
 import '../../styles/About_Me.css';
 export default function About_Me() {
   return (

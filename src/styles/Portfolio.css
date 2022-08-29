@@ -1,0 +1,122 @@
+.two {
+    display:flex;
+    justify-content: center;  
+    padding-bottom:25px;
+  }
+  
+  /* .header {
+    margin-top:15px;
+  } */
+  
+  .two h1 {
+    color: rgb(72, 72, 121);
+  }
+  
+  /* Grid Parameters*/
+  .grid {
+    height: 90vh;
+    margin: 2rem;
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-gap: 10px 10px;
+    width: 100%;
+    margin-left: 3%;
+    margin-right: 3%;
+  }
+  
+  .image1 {
+    grid-row: 1; 
+    grid-column: 1/4;
+    height: 515px;
+    width: 100%;
+    background-image: url("../assets/images/work.jpg");      
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .image2 {
+    grid-row: 2; 
+    grid-column: 1;
+    height: 250px;
+    width: 100%;
+    background-image: url("../assets/images/led-wall.jpg");
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .image3 {
+    grid-row: 2; 
+    grid-column: 2;
+    height: 250px;
+    width: 100%;
+    background-image: url("../assets/images/calculator.jpg");
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .image4 {
+    grid-row: 3; 
+    grid-column: 1;
+    height: 250px;
+    width: 100%;
+    background-image: url("../assets/images/pastel-puzzels.jpg");
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .image5 {
+    grid-row: 3; 
+    grid-column: 2;
+    height: 250px;
+    width: 100%;
+    background-image: url("../assets/images/run-buddy.jpg");
+    background-size: cover;
+    background-position: center;
+  }
+
+  .image6 {
+    grid-row: 4; 
+    grid-column: 1;
+    height: 250px;
+    width: 100%;
+    background-image: url("../assets/images/run-buddy.jpg");
+    background-size: cover;
+    background-position: center;
+  }
+
+  .image7 {
+    grid-row: 4; 
+    grid-column: 2;
+    height: 250px;
+    width: 100%;
+    background-image: url("../assets/images/run-buddy.jpg");
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .in-image-link {
+    display: inline-block;
+    padding: 5px;
+    background-color: lightblue;
+    position: relative;
+    top:85%
+  }
+  
+  .in-image-link2, .in-image-link3, .in-image-link4, .in-image-link5,  .in-image-link6,  .in-image-link7 {
+    display: inline-block;
+    padding: 3px;
+    /* margin-bottom:50px; */
+    background-color: lightblue;
+    position: relative;
+    /* top:72.5% */
+  }
+
+  .in-image-link2-1 {
+    display: block;
+    margin-top:110px;
+    background-color: lightblue;
+    position: relative;
+    width:15%;
+    padding:3px;
+  }
