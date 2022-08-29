@@ -1,8 +1,4 @@
-/* * {
-    box-sizing: border-box;
-    padding: 0;
-    margin: 0;
-  } */
+
 
 .nav {
     background-color: rgb(53, 50, 50);
@@ -13,11 +9,9 @@
     background-color: lightblue;
     margin-top: 7px;
     margin-bottom:7px;
-    /* padding-bottom: 6px; */
     padding-left: 50px;
     padding-right:5px;
     margin-left: -20px;
-    /* border:50px; */
   } 
 
   .tabs {
@@ -26,22 +20,21 @@
     gap:100px;
     margin-left:275px
   }
-
+/* ------------------------------------------------------------ */
 .nav-item {
     margin-top: 29px;
-    
+    color:red;
 
 }
+.nav-link active {
+    color:red;
+}
+.nav-link {
+    color:red;
+}
 
-/* a {
-    color: lightblue;
-    text-decoration: none;
-  }
-
-  a:link {
-    color: green;
-    background-color: transparent;
-    text-decoration: none;
-  } */
+a {
+    color:red;
+}
 
 

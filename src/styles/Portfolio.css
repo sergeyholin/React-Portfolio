@@ -1,18 +1,18 @@
+body {
+    background-color: lightblue;
+}
+
 .two {
     display:flex;
     justify-content: center;  
     padding-bottom:25px;
+    /* background-color: lightgrey; */
   }
-  
-  /* .header {
-    margin-top:15px;
-  } */
   
   .two h1 {
     color: rgb(72, 72, 121);
   }
   
-  /* Grid Parameters*/
   .grid {
     height: 90vh;
     margin: 2rem;
@@ -25,24 +25,15 @@
     margin-right: 3%;
   }
   
-  .image1 {
-    grid-row: 1; 
-    grid-column: 1/4;
-    height: 515px;
-    width: 100%;
-    background-image: url("../assets/images/work.jpg");      
-    background-size: cover;
-    background-position: center;
-  }
-  
   .image2 {
     grid-row: 2; 
     grid-column: 1;
     height: 250px;
     width: 100%;
-    background-image: url("../assets/images/led-wall.jpg");
+    background-image: url("../assets/images/mix-it-up.png");
     background-size: cover;
     background-position: center;
+    border:solid;
   }
   
   .image3 {
@@ -50,9 +41,10 @@
     grid-column: 2;
     height: 250px;
     width: 100%;
-    background-image: url("../assets/images/calculator.jpg");
+    background-image: url("../assets/images/have-a-laugh.png");
     background-size: cover;
     background-position: center;
+    border:solid;
   }
   
   .image4 {
@@ -60,9 +52,10 @@
     grid-column: 1;
     height: 250px;
     width: 100%;
-    background-image: url("../assets/images/pastel-puzzels.jpg");
+    background-image: url("../assets/images/the-tech-blog.png");
     background-size: cover;
     background-position: center;
+    border:solid;
   }
   
   .image5 {
@@ -70,9 +63,10 @@
     grid-column: 2;
     height: 250px;
     width: 100%;
-    background-image: url("../assets/images/run-buddy.jpg");
+    background-image: url("../assets/images/employee-tracker.png");
     background-size: cover;
     background-position: center;
+    border:solid;
   }
 
   .image6 {
@@ -80,9 +74,10 @@
     grid-column: 1;
     height: 250px;
     width: 100%;
-    background-image: url("../assets/images/run-buddy.jpg");
+    background-image: url("../assets/images/weather-dashboard.png");
     background-size: cover;
     background-position: center;
+    border:solid;
   }
 
   .image7 {
@@ -90,33 +85,25 @@
     grid-column: 2;
     height: 250px;
     width: 100%;
-    background-image: url("../assets/images/run-buddy.jpg");
+    background-image: url("../assets/images/password-generator.png");
     background-size: cover;
     background-position: center;
-  }
-  
-  .in-image-link {
-    display: inline-block;
-    padding: 5px;
-    background-color: lightblue;
-    position: relative;
-    top:85%
+    border:solid;
   }
   
   .in-image-link2, .in-image-link3, .in-image-link4, .in-image-link5,  .in-image-link6,  .in-image-link7 {
-    display: inline-block;
-    padding: 3px;
-    /* margin-bottom:50px; */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
     background-color: lightblue;
-    position: relative;
-    /* top:72.5% */
   }
 
   .in-image-link2-1 {
-    display: block;
-    margin-top:110px;
+    margin-top:160px;
+    margin-left:250px;
     background-color: lightblue;
     position: relative;
     width:15%;
-    padding:3px;
+    padding-left:7px;
+    padding-bottom:1px;
   }
