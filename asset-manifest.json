@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.223d7089.css",
+    "main.js": "/React-Portfolio/static/js/main.543d9b54.js",
+    "static/media/mix-it-up.png": "/React-Portfolio/static/media/mix-it-up.4cd066b186fea06a93b1.png",
+    "static/media/have-a-laugh.png": "/React-Portfolio/static/media/have-a-laugh.068a296db08dbb133c5d.png",
+    "static/media/avatar.jpg": "/React-Portfolio/static/media/avatar.d85a60b5afc7ca1c7088.jpg",
+    "static/media/employee-tracker.png": "/React-Portfolio/static/media/employee-tracker.fadf2b61e57bbc654037.png",
+    "static/media/the-tech-blog.png": "/React-Portfolio/static/media/the-tech-blog.a71407906202e700be03.png",
+    "static/media/weather-dashboard.png": "/React-Portfolio/static/media/weather-dashboard.2d61997f12d11c10e61a.png",
+    "static/media/password-generator.png": "/React-Portfolio/static/media/password-generator.6699a8e0ecebc63acde9.png",
+    "static/media/resume.pdf": "/React-Portfolio/static/media/resume.5cee6d4839f2c741f3b9.pdf",
+    "index.html": "/React-Portfolio/index.html",
+    "main.223d7089.css.map": "/React-Portfolio/static/css/main.223d7089.css.map",
+    "main.543d9b54.js.map": "/React-Portfolio/static/js/main.543d9b54.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.223d7089.css",
+    "static/js/main.543d9b54.js"
+  ]
+}
