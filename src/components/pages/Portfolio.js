@@ -3,7 +3,7 @@ import '../../assets/styles/Portfolio.css';
 
 export default function Portfolio() {
   return (
-    <div>
+    <div className='mainP'>
     <div className="two">
     <div className="grid">
         <div className="image2" >
@@ -11,7 +11,7 @@ export default function Portfolio() {
                 <h5>Mix It Up: SQL/Handlebars</h5>
             </div>
             <div className="in-image-link2-1">
-            <h6><a href="https://github.com/sergeyholin/Mix-It-Up" target="_blank">Repo Link</a></h6>
+            <h6><a href="https://github.com/sergeyholin/Mix-It-Up" target="_blank">Repo Link</a></h6>&nbsp;&nbsp;
             <h6><a href="https://adadlaldalkmdlka.herokuapp.com/" target="_blank">Live Link</a></h6>
             </div>
         </div>
@@ -20,7 +20,7 @@ export default function Portfolio() {
                 <h5>Have A Laugh:Bulma/CSS</h5>
             </div>
             <div className="in-image-link2-1">
-            <h6><a href="https://github.com/sergeyholin/Have-A-Laugh" target="_blank">Repo Link</a></h6>
+            <h6><a href="https://github.com/sergeyholin/Have-A-Laugh" target="_blank">Repo Link</a></h6>&nbsp;&nbsp;
             <h6><a href="https://sergeyholin.github.io/Have-A-Laugh/" target="_blank">Live Link</a></h6>
             </div>
         </div>
@@ -29,7 +29,7 @@ export default function Portfolio() {
                 <h5>The Tech Blog:NODE/Express/SQL/Handlebars</h5>
             </div>
             <div className="in-image-link2-1">
-            <h6><a href="https://github.com/sergeyholin/Tech-Blog" target="_blank">Repo Link</a></h6>
+            <h6><a href="https://github.com/sergeyholin/Tech-Blog" target="_blank">Repo Link</a></h6>&nbsp;&nbsp;
             <h6><a href="https://techblog117.herokuapp.com/" target="_blank">Live Link</a></h6>
             </div>
         </div>
@@ -38,7 +38,7 @@ export default function Portfolio() {
                 <h5>Employee Tracker:NODE/MySQL2</h5>
             </div>
             <div className="in-image-link2-1">
-            <h6><a href="https://github.com/sergeyholin/Employee-Tracker" target="_blank">Repo Link</a></h6>
+            <h6><a href="https://github.com/sergeyholin/Employee-Tracker" target="_blank">Repo Link</a></h6>&nbsp;&nbsp;
             <h6><a href="https://drive.google.com/file/d/18MKHBlPoSSBKFVT_qJ_vUg93z-jsbEuk/view" target="_blank">Live Link</a></h6>
             </div>
         </div>
@@ -47,7 +47,7 @@ export default function Portfolio() {
                 <h5>Weather Dashboard:Bootstrap/jQuery/Moment</h5>
             </div>
             <div className="in-image-link2-1">
-            <h6><a href="https://github.com/sergeyholin/Weather-Dashboard" target="_blank">Repo Link</a></h6>
+            <h6><a href="https://github.com/sergeyholin/Weather-Dashboard" target="_blank">Repo Link</a></h6>&nbsp;&nbsp;
             <h6><a href="https://sergeyholin.github.io/Weather-Dashboard/" target="_blank">Live Link</a></h6>
             </div>
         </div>
@@ -56,7 +56,7 @@ export default function Portfolio() {
                 <h5>Password Generator:JS</h5>
             </div>
             <div className="in-image-link2-1">
-            <h6><a href="https://github.com/sergeyholin/Password-Generator" target="_blank">Repo Link</a></h6>
+            <h6><a href="https://github.com/sergeyholin/Password-Generator" target="_blank">Repo Link</a></h6>&nbsp;&nbsp;
             <h6><a href="https://sergeyholin.github.io/Password-Generator/" target="_blank">Live Link</a></h6>
             </div>
         </div>

@@ -1,38 +1,29 @@
-.footer {
-    display: flex; 
-    justify-content: space-between;
-    padding: 15px;
-    background-color: rgb(53, 50, 50);
-  }
-  
-  .footer h1 {
-    text-align: right; 
-    margin-left: -2.6%;
-    padding:20px;
-/* 
-    border-right: 5px solid rgb(72, 72, 121); */
-    height:100px;
-    width:15%; 
-  }
-  
   .footer div {
-    margin-right: 60px;
-    float: right;
     font-size: 20px;
     color:#ffffff;
+    text-align: center;
   }
-  
-  .footer div ul {
-    list-style-type: none;
-    margin-right: 80px;
+
+  .test {
+   height:auto;
   }
   
   .footer div ul li {
     display: inline-block;
-    margin-left: 225px;
-    padding-top: 30px;
+    padding-left:100px;
+    padding-right:100px;
+    padding-top: 10px;
   }
  
+  a {
+    color: white;
+  }
+  .footer {
+    background-color: rgb(53, 50, 50);
+    position:fixed;
+    bottom:0;
+    width: 100%;
+  }
 
   @media screen and (max-width: 768px) {
   
@@ -59,6 +50,3 @@
     }
   }
 
-  a {
-    color: white;
-  }

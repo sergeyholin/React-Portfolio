@@ -7,13 +7,13 @@ function Footer() {
     <div>
         <ul>
             <li>
-                <a href = "mailto: myemail@mail.com"><u>Email me</u></a>
+                <center><a href = "mailto: myemail@mail.com"><u>Email me</u></a></center>
             </li>
             <li>
-                <a href="https://github.com/sergeyholin" target="_blank" alt="GitHub"><u> My GitHub</u></a>
+                <center><a href="https://github.com/sergeyholin" target="_blank" alt="GitHub"><u> My GitHub</u></a></center>
             </li>
             <li>
-                <a href="https://www.linkedin.com/in/sergey-holin-280125241/" target="_blank" alt="LinkedIn"><u>My LinkedIn</u></a>
+                <center><a href="https://www.linkedin.com/in/sergey-holin-280125241/" target="_blank" alt="LinkedIn"><u>My LinkedIn</u></a></center>
             </li>
         </ul>
     </div>

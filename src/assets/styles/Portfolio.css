@@ -1,9 +1,12 @@
+.mainP {
+      height:145vh;
+}
+
 .two {
     display:flex;
     justify-content: center;  
-    padding-bottom:25px;
     background-color:lightgoldenrodyellow !important;
-    height:140vh;
+    /* height:100vh !important; */
   }
   
   .two h1 {
@@ -93,15 +96,16 @@
     flex-direction: row;
     justify-content: center;
     background-color: lightblue;
+    /* position: relative;
+    top:71% */
+ 
   }
 
   .in-image-link2-1 {
-    margin-top:155px;
-    margin-left:250px;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
     background-color: lightblue;
     position: relative;
-    width:15%;
-    padding-left:7px;
-    padding-bottom:1px;
-    border:solid;
+    top:76%
   }
