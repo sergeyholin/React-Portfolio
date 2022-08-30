@@ -1,6 +1,7 @@
 import React from 'react';
+import '../../assets/styles/About_Me.css';
 import avatar from '../../assets/images/avatar.jpg';
-import '../../styles/About_Me.css';
+
 export default function About_Me() {
   return (
     <div className='main'>

@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/sergeyholin.github.io/React-Portfolio/static/css/main.6c785244.css",
+    "main.js": "/sergeyholin.github.io/React-Portfolio/static/js/main.498dbc1f.js",
+    "static/media/mix-it-up.png": "/sergeyholin.github.io/React-Portfolio/static/media/mix-it-up.4cd066b186fea06a93b1.png",
+    "static/media/have-a-laugh.png": "/sergeyholin.github.io/React-Portfolio/static/media/have-a-laugh.068a296db08dbb133c5d.png",
+    "static/media/avatar.jpg": "/sergeyholin.github.io/React-Portfolio/static/media/avatar.d85a60b5afc7ca1c7088.jpg",
+    "static/media/employee-tracker.png": "/sergeyholin.github.io/React-Portfolio/static/media/employee-tracker.fadf2b61e57bbc654037.png",
+    "static/media/the-tech-blog.png": "/sergeyholin.github.io/React-Portfolio/static/media/the-tech-blog.a71407906202e700be03.png",
+    "static/media/weather-dashboard.png": "/sergeyholin.github.io/React-Portfolio/static/media/weather-dashboard.2d61997f12d11c10e61a.png",
+    "static/media/password-generator.png": "/sergeyholin.github.io/React-Portfolio/static/media/password-generator.6699a8e0ecebc63acde9.png",
+    "static/media/resume.pdf": "/sergeyholin.github.io/React-Portfolio/static/media/resume.5cee6d4839f2c741f3b9.pdf",
+    "index.html": "/sergeyholin.github.io/React-Portfolio/index.html",
+    "main.6c785244.css.map": "/sergeyholin.github.io/React-Portfolio/static/css/main.6c785244.css.map",
+    "main.498dbc1f.js.map": "/sergeyholin.github.io/React-Portfolio/static/js/main.498dbc1f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c785244.css",
+    "static/js/main.498dbc1f.js"
+  ]
+}

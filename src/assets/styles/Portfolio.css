@@ -27,7 +27,7 @@
     grid-column: 1;
     height: 250px;
     width: 100%;
-    background-image: url("../assets/images/mix-it-up.png");
+    background-image: url("../images/mix-it-up.png");
     background-size: cover;
     background-position: center;
     border:solid;
@@ -38,7 +38,7 @@
     grid-column: 2;
     height: 250px;
     width: 100%;
-    background-image: url("../assets/images/have-a-laugh.png");
+    background-image: url("../images/have-a-laugh.png");
     background-size: cover;
     background-position: center;
     border:solid;
@@ -49,7 +49,7 @@
     grid-column: 1;
     height: 250px;
     width: 100%;
-    background-image: url("../assets/images/the-tech-blog.png");
+    background-image: url("../images/the-tech-blog.png");
     background-size: cover;
     background-position: center;
     border:solid;
@@ -60,7 +60,7 @@
     grid-column: 2;
     height: 250px;
     width: 100%;
-    background-image: url("../assets/images/employee-tracker.png");
+    background-image: url("../images/employee-tracker.png");
     background-size: cover;
     background-position: center;
     border:solid;
@@ -71,7 +71,7 @@
     grid-column: 1;
     height: 250px;
     width: 100%;
-    background-image: url("../assets/images/weather-dashboard.png");
+    background-image: url("../images/weather-dashboard.png");
     background-size: cover;
     background-position: center;
     border:solid;
@@ -82,7 +82,7 @@
     grid-column: 2;
     height: 250px;
     width: 100%;
-    background-image: url("../assets/images/password-generator.png");
+    background-image: url("../images/password-generator.png");
     background-size: cover;
     background-position: center;
     border:solid;
