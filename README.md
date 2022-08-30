@@ -46,4 +46,4 @@ CSS
 
 ## SCREENSHOT:
 
-<img src="/src/assets/imgages/screenshot.png/"/>
+<img src="./src/assets/images/screenshot.png/"/>
