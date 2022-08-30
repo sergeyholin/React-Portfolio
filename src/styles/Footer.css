@@ -1,0 +1,64 @@
+.footer {
+    display: flex; 
+    justify-content: space-between;
+    padding: 15px;
+    background-color: rgb(53, 50, 50);
+  }
+  
+  .footer h1 {
+    text-align: right; 
+    margin-left: -2.6%;
+    padding:20px;
+/* 
+    border-right: 5px solid rgb(72, 72, 121); */
+    height:100px;
+    width:15%; 
+  }
+  
+  .footer div {
+    margin-right: 60px;
+    float: right;
+    font-size: 20px;
+    color:#ffffff;
+  }
+  
+  .footer div ul {
+    list-style-type: none;
+    margin-right: 80px;
+  }
+  
+  .footer div ul li {
+    display: inline-block;
+    margin-left: 225px;
+    padding-top: 30px;
+  }
+ 
+
+  @media screen and (max-width: 768px) {
+  
+    main,
+    nav {
+      flex-direction: column;
+    }
+    
+    aside {
+      order: 2;
+    }
+  
+    header {
+      background: #772014;
+    }
+   
+    nav,
+    footer {
+      background-color: #bb8588;
+    }
+    
+    #about-me, #work, #contact-me {
+      visibility: hidden;
+    }
+  }
+
+  a {
+    color: white;
+  }

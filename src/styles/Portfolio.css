@@ -1,12 +1,9 @@
-body {
-    background-color: lightblue;
-}
-
 .two {
     display:flex;
     justify-content: center;  
     padding-bottom:25px;
-    /* background-color: lightgrey; */
+    background-color:lightgoldenrodyellow !important;
+    height:140vh;
   }
   
   .two h1 {
@@ -99,11 +96,12 @@ body {
   }
 
   .in-image-link2-1 {
-    margin-top:160px;
+    margin-top:155px;
     margin-left:250px;
     background-color: lightblue;
     position: relative;
     width:15%;
     padding-left:7px;
     padding-bottom:1px;
+    border:solid;
   }

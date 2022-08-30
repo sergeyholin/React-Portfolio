@@ -1,5 +1,3 @@
-
-
 .nav {
     background-color: rgb(53, 50, 50);
   }
@@ -20,21 +18,17 @@
     gap:100px;
     margin-left:275px
   }
-/* ------------------------------------------------------------ */
+
 .nav-item {
     margin-top: 29px;
-    color:red;
-
 }
-.nav-link active {
-    color:red;
+.nav-link.active {
+    color:black !important;
+    background-color:lightgoldenrodyellow !important;
+    border-color: lightgoldenrodyellow !important;
 }
 .nav-link {
-    color:red;
-}
-
-a {
-    color:red;
+    color:lightblue !important;
 }
 
 
